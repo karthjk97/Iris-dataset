@@ -1,1 +1,1 @@
-# Iris-dataset
+Making predictions on the Iris dataset is like the ‘Hello world!’ of Machine Learning. In this post I describe how I made predictions on this dataset using models from sklearn’s library. I performed most of the plotting operations using pandas as plotting using pandas is simple and still produces great plots. The data was trained on LDA, Logistic regression, SVMs, KNN, Gaussian NB, and Decision Trees. Finally, it turned out that KNN’s performed the best of the lot. I got a final accuracy score of 0.90.
